@@ -5,6 +5,8 @@
   <p>Frameworks: React, Node.js, Django</p>
 
 ### 📫 You can contact me on:
-  Email: martinrabanoscanoy@gmail.com
-  LinkedIn: https://www.linkedin.com/in/martin-iii-canoy-b1b330358/
+ <p> Email: martinrabanoscanoy@gmail.com</p>
+ <p> LinkedIn: https://www.linkedin.com/in/martin-iii-canoy-b1b330358/</p>
+ <p>
   Thanks for visiting! 🚀
+</p>
