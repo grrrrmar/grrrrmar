@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Martin, III R. Canoy
 
 ### 🔧 Technologies & Tools
-  Languages: Python, JavaScript
-  Frameworks: React, Node.js, Django
+  <p>Languages: Python, JavaScript</p>  
+  <p>Frameworks: React, Node.js, Django</p>
 
 ### 📫 You can contact me on:
   Email: martinrabanoscanoy@gmail.com
